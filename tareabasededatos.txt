@@ -1,0 +1,20 @@
+usando la base de datos northwind
+
+hacer una factura  
+
+fecha
+Nombredelcliente
+N°orden
+NoProducto=IDproducto
+Cantidadproducto
+precio
+subtotal=precio*cantidad
+descuento
+total (con IVA)
+
+
+y enviarla al correo electronico
+
+--- I
+Investigacion como insertar un html en el codigo para darle cuerpo a la factura
+juanesgamesa@outlook.com

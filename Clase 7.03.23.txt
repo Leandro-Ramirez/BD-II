@@ -1,0 +1,97 @@
+Ing Walger José Herrera Treminio
+
+walger.herrera@fcys.uni.edu.ni
+
+walger.herrera@gmail.com
+
+consultas: Martes 2PT
+
+1.1 Administracion de archivos BD
+1.2 Planificacion y administracion de respaldos BD
+1.3 Notificaciones y alertas del sistema
+1.4 Operaciones automaticas del gestor de datos
+1.5 Optimizaccion de consultas
+1.6 Gestion de indices
+1.7 Migracion de base de datos
+1.8 Base de datos espejos y replicaciones
+1.9 Seguridad de base de datos
+1.10 Buenas practicas del mantenimiento
+
+Modelos datos
+ 
+                       
+               Registros(relacional y no relacional)
+
+Base de datos
+
+               En objetos(Diagrama de clases, Diagrama entidad/relacion)
+
+
+Metodologia (Buscá)
+
+--Etapas del diseño del modelo de bd
+
+-Modelo conceptual (Diagrama de clases )
+
+-Modelo Logico (Relacional)
+
+-Modelo Fisico
+
+Normalizacion(Buscá)
+
+
+
+
+2.1 Introducción a las BD NOSQL (Ventajas, Diferencia con MR, Gestores)
+2.2 Tipos de datos
+2.3 Colecciones
+
+
+
+3 data warehouse (No normalizados)
+
+3.1.1 introduccion al datawarehouse
+3..1.2 estructrua del wd(tablas dimensionales de hechos)
+3.3.3 datamart
+3.1.4 procesos etl(extraccion transaccion y la carga)
+3.1.5 cubo de datos
+
+3.2 Big data
+
+
+
+
+
+4. Analisis de datos para desarrollo relacional
+
+
+
+
+
+---------------------------------
+Parcial I
+
+Sistematico 15pts
+Sistematico 25pts
+
+Parcial II
+
+Sistematico 15pts
+Sistematico 25pts
+
+Tarea de Curso 20 PTS
+---------------------------------
+
+Traer un caso de estudio para mañana 08.03.23
+
+Modelo entidad/relacion
+Modelo relacional
+
+
+Catalogo servicio
+
+Catalogo Repuesto
+
+Cliente
+
+
